@@ -46,7 +46,7 @@
   ],
   "dependencies": {
     "ui-button": "2.0.1",
-    "ui-icon": "0.11.7",
+    "ui-icon": "0.11.8",
     "ui-input": "0.10.2",
     "ember-cli-babel": "^5.1.7"
   },
