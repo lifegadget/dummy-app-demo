@@ -1,0 +1,5 @@
+{
+  "globalDependencies": {
+    "showdown": "registry:dt/showdown#1.4.1+20160608102004"
+  }
+}
