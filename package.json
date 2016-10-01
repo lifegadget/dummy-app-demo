@@ -1,6 +1,6 @@
 {
   "name": "dummy-app-demo",
-  "version": "0.1.2",
+  "version": "0.1.3",
   "description": "UI widgets and styling to start a demo helper app with",
   "directories": {
     "doc": "doc",
