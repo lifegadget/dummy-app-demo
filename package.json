@@ -38,15 +38,15 @@
     "ember-load-initializers": "^0.5.1",
     "ember-resolver": "^2.0.3",
     "ember-welcome-page": "^1.0.3",
-    "loader.js": "^4.0.11",
-    "ui-button": "2.0.1",
-    "ui-icon": "0.11.7",
-    "ui-input": "0.10.2"
+    "loader.js": "^4.0.11"
   },
   "keywords": [
     "ember-addon"
   ],
   "dependencies": {
+    "ui-button": "2.0.1",
+    "ui-icon": "0.11.7",
+    "ui-input": "0.10.2",
     "ember-cli-babel": "^5.1.7"
   },
   "ember-addon": {
